@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mustafadurmusacikgoz 
 -  🎓I’m student at Mersin University Computer Programming
 - 👀 I’m interested in computer science and web security
-- 🌱 I’m currently learning Frontend Web Development
+- 🌱 I’m currently learning Frontend Web Development and Python
 - 📫 How to reach me mustafadurmusacikgoz@gmail.com
